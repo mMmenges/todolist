@@ -4,11 +4,11 @@
 
     <div class="navbar">
       <md-toolbar md-elevation="1">
-        <a class="md-title" style="flex: 1" href="https://mmmenges.github.io/mytodo/">
+        <a class="md-title" style="flex: 1" href="https://mmmenges.github.io/todolist/">
 <div>Michael Menges</div>
         </a>
         <a
-          href="https://mmmenges.github.io/mytodo/"
+          href="https://mmmenges.github.io/todolist/"
           role="menuitem"
           class="navigation-list_item"
         >Refresh</a>
@@ -19,7 +19,7 @@
           class="navigation-list_item"
         >
           Developer
-          Portfolio
+          Website
         </a>
         <a
           href="https://github.com/mmmenges"
